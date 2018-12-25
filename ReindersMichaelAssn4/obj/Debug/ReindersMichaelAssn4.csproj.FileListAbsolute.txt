@@ -1,0 +1,35 @@
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn4\ReindersMichaelAssn4\bin\Debug\ReindersMichaelAssn4.dll
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn4\ReindersMichaelAssn4\bin\Debug\ReindersMichaelAssn4.pdb
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn4\ReindersMichaelAssn4\bin\Debug\ReindersMichaelAssn4.ReindersMichaelAssn4.apk
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn4\ReindersMichaelAssn4\bin\Debug\ReindersMichaelAssn4.ReindersMichaelAssn4-Signed.apk
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn4\ReindersMichaelAssn4\obj\Debug\ReindersMichaelAssn4.csproj.CoreCompileInputs.cache
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn4\ReindersMichaelAssn4\obj\Debug\ReindersMichaelAssn4.dll
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn4\ReindersMichaelAssn4\obj\Debug\ReindersMichaelAssn4.pdb
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn4\ReindersMichaelAssn4\obj\Debug\android\bin\ReindersMichaelAssn4.ReindersMichaelAssn4.apk
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn4\ReindersMichaelAssn4\obj\Debug\res\layout\row.xml
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn4\ReindersMichaelAssn4\obj\Debug\res\layout\main.xml
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn4\ReindersMichaelAssn4\obj\Debug\res\values\strings.xml
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn4\ReindersMichaelAssn4\obj\Debug\R.cs.flag
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn4\ReindersMichaelAssn4\obj\Debug\uploadflags.txt
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn4\ReindersMichaelAssn4\bin\Debug\ReindersMichaelAssn4.dll
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\ReindersMichaelAssn4.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
